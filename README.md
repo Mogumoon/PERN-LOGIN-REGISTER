@@ -37,6 +37,7 @@ PERN-LOGIN-REGISTER/
 │   ├── src/
 │   │   ├── api/axios.js
 │   │   ├── components/Navbar.jsx
+│   │   ├── pages/Home.jsx
 │   │   ├── pages/Login.jsx
 │   │   ├── pages/Register.jsx
 │   │   ├── App.jsx
