@@ -56,10 +56,12 @@ npm install
 
 ### Environment
 ```env
-PORT=5000
-DATABASE_URL=postgresql://username:password@localhost:5432/db_name
-JWT_SECRET=your_jwt_secret
-CLIENT_URL=http://localhost:5173
+DB_HOST = localhost
+DB_PORT = 5432
+DB_NAME = pern_auth
+DB_USER = postgres
+DB_PASSWORD = (your_DB_PASSWORD)
+JWT_SECRET = (your_JWT_SECRET)
 ```
 
 ### Database
